@@ -1,0 +1,4 @@
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.Form1.resources
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.Properties.Resources.resources
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyon.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyon.csproj.CoreCompileInputs.cache

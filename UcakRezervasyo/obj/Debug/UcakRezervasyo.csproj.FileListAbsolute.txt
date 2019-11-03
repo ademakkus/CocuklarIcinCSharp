@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\bin\Debug\UcakRezervasyo.exe.config
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\bin\Debug\UcakRezervasyo.exe
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\bin\Debug\UcakRezervasyo.pdb
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.Form1.resources
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.Properties.Resources.resources
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.exe
+C:\Users\mypc\source\repos\CocuklarIcinCSharp\UcakRezervasyo\obj\Debug\UcakRezervasyo.pdb
